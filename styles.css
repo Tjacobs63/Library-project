@@ -117,6 +117,8 @@ li {
     display: none;
 }
 
+
+
 .menu--open .menu__backdrop {
     display: flex;
 }
@@ -203,7 +205,7 @@ button:active  {
 }
 
 
-.btm {
+.btn{
 background-color: #7342d6;
 color: white;
 padding: 12px 24px;
