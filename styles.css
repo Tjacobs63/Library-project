@@ -46,7 +46,7 @@ a:hover {
 
 .nav__container {
     width: 100%;
-    max-width: 1200px;
+    max-width: 1200px; 
     padding: 0 24px;
     display: flex;
     justify-content: space-between;
@@ -97,7 +97,7 @@ li {
 
 }
 
-.button__menu {
+.btn__menu {
     background-color: transparent;
     font-size: 40px; 
     text-align: center;
@@ -456,7 +456,6 @@ padding: 0 20px;
  SMALL PHONES, TABLETS, AND LARGE SMART PHONES
 */
 
-/*SMALL PHONES, LARGE SMART PHONES*/
 
 @media (max-width: 768px) {
     .header__description {
@@ -481,6 +480,8 @@ padding: 0 20px;
     }
 }
 
+/*SMALL PHONES, LARGE SMART PHONES
+*/
 @media (max-width: 550px) {
     .nav__links {
 display:  none;
