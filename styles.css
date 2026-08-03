@@ -485,7 +485,7 @@ padding: 0 20px;
 @media (max-width: 550px) {
     .nav__links {
 display:  none;
-    }
+    
 }
 
 .btn__menu{
@@ -506,4 +506,4 @@ display:  none;
     margin-bottom: 24px;
 }
 
-
+}
